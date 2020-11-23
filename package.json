@@ -1,0 +1,13 @@
+
+
+{
+  "name": "my-personal-quiz-app",
+  "version": "1.0.0",
+  "description": "This will load my personal quiz-app",
+  "scripts": {
+    "start": "harp server --port $PORT"
+  },
+  "dependencies": {
+    "harp": "*"
+  }
+}

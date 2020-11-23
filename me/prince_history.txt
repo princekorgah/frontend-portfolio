@@ -1,0 +1,500 @@
+    6  ll
+    7  cd react/
+    8  ll
+    9  pwd
+   10  ll
+   11  clear
+   12  git statis
+   13  git status
+   14  git add -A
+   15  ll
+   16  git init
+   17  git remote add origin https://github.com/Ernest-hub/react.git
+   18  git remote -v
+   19  git add -A
+   20  cd Desktop/FOLDERS/Pastor\ T\ class/Assignment_9/
+   21  l
+   22  ll
+   23  clear
+   24  ll
+   25  cd gdichicago/
+   26  cd src/
+   27  npm start
+   28  npm start
+   29  npm i react-router-dom
+   30  npm start
+   31  clear
+   32  create-react-app reminderPro
+   33  cd ..
+   34  cd ..
+   35  cd ..
+   36  cd ..
+   37  cd ..
+   38  pwd
+   39  cd Ernest/
+   40  cd reactJs
+   41  ll
+   42  cd practice/
+   43  ll
+   44  npm start
+   45  cd ..
+   46  cd ..
+   47  cd REACTJS_PRACTICE/
+   48  ll
+   49  cd react-app/src/
+   50  npm start
+   51  clear
+   52  history
+   53  clear
+   54  exit
+   55  cd Desktop/FOLDERS/Pastor\ T\ class/Assignment_9/
+   56  ll
+   57  history
+   58  cd ..
+   59  cd ..
+   60  cd ..
+   61  cd Ernest/reactJs
+   62  ll
+   63  clear
+   64  git status
+   65  clear
+   66  git init
+   67  history
+   68    501  history
+   69    501  history
+   70  git remote add origin https://github.com/Ernest-hub/reactJs
+   71  git remote -v
+   72  git pull
+   73  ll
+   74  create-react-app reminderPro
+   75  create-react-app reminderpro
+   76  ll
+   77  cd reminderpro/src/
+   78  npm install redux react-redux --save
+   79  npm start
+   80  npm start
+   81  npm start
+   82  exit
+   83  pwd
+   84  cd Desktop/Ernest/web_focus/
+   85  pwd
+   86  ll
+   87  cd css/
+   88  ll
+   89  pwd
+   90  clear
+   91  mkdir style.css
+   92  ll
+   93  rm -rf style.css/
+   94  ll
+   95  clear
+   96  touch style.css
+   97  ll
+   98  cd ..
+   99  pwd
+  100  ll
+  101  cd ..
+  102  ll
+  103  mkdir 
+  104  mkdir JuSe
+  105  ls -ltr JuSe/
+  106  ll
+  107  cd JuSe/
+  108  ll
+  109  cd website/
+  110  ll
+  111  cd ..
+  112  ll
+  113  clear
+  114  git init
+  115  echo "# JuSe" >> README.md
+  116  git remote add origin https://github.com/Ernest-hub/JuSe.git
+  117  git remote -v
+  118  git status
+  119  git add -A
+  120  git commit -m "committing website to JuSe"
+  121  git status
+  122  git branch
+  123  git push -u origin master
+  124  cd ..
+  125  cd 
+  126  cd Desktop/FOLDERS/Pastor\ T\ class/
+  127  ll
+  128  cd Assignment_9/
+  129  cd Trello_clone/
+  130  ll
+  131  clear
+  132  create-eact-app trello-clone
+  133  create-react-app trello-clone
+  134  cd trello-clone/
+  135  code .
+  136  npm redux react-redux @material-ui/core npm install @material-ui/icons
+  137  npm install redux react-redux @material-ui/core npm install @material-ui/icons
+  138  npm audit fix
+  139  cd src/
+  140  npm start
+  141  exit
+  142  npm i react-textarea-autosize
+  143  exit
+  144  npm install react-beautiful-dnd
+  145  exit
+  146  ll
+  147  cd Desktop/FOLDERS/Pastor\ T\ class/Assignment_9/
+  148  ll
+  149  cs Trello_clone/trello-clone/src/
+  150  cd Trello_clone/trello-clone/src/
+  151  who
+  152  whoami
+  153  npm start
+  154  npm start
+  155  npm start
+  156  npm start
+  157  npm start
+  158  npm start
+  159  npm start
+  160  npm start
+  161  kill
+  162  p
+  163  ps
+  164  top
+  165  htop
+  166  ps
+  167  ps -e
+  168  exit
+  169  npm install react-beautiful-dnd --save
+  170  exit
+  171  cd Desktop/FOLDERS/Pastor\ T\ class/Assignment_9
+  172  ll
+  173  cd react/
+  174  ll
+  175  cd gdichicago/src/
+  176  npm start
+  177  cd Desktop/FOLDERS/Pastor\ T\ class/Assignment_9/
+  178  ll
+  179  cd gdichicago/src/
+  180  npm start
+  181  pwd
+  182  cd ..
+  183  cd ..
+  184  pwd
+  185  ll
+  186  cd gdichicago/
+  187  ll
+  188  clear
+  189  git init
+  190  git remote add origin https://github.com/Ernest-hub/gdichicago.git
+  191  git remote
+  192  git remote -v
+  193  git add README.md
+  194  ll
+  195  cd ..
+  196  cd ..
+  197  cd ..
+  198  cd Pastor\ T\ class/Assignment_9_react/
+  199  git init
+  200  git remote add origin https://github.com/Ernest-hub/Assignment_9_react.git
+  201  ll
+  202  git add -A
+  203  git status
+  204  git add .
+  205  exit
+  206  cd src/
+  207  npm start
+  208  exit
+  209  npm install react-beautiful-dnd --save
+  210  cd Desktop/Ernest/
+  211  exit
+  212  git status
+  213  git pull
+  214  git show
+  215  clear
+  216  ll
+  217  git commit -m "committing after picture re-check"
+  218  exit
+  219  npm install -S react-router-dom
+  220  exit
+  221  cd Desktop/FOLDERS/Pastor\ T\ class/
+  222  ll
+  223  cd gdichicago/src/
+  224  npm start
+  225  npm start
+  226  npm start
+  227  1
+  228  npm i react-router-dom
+  229  CD ..
+  230  CD ..
+  231  cd ..
+  232  cd ..
+  233  create-react-app routerjs
+  234  c routerjs/src/
+  235  npm start
+  236  npm start
+  237  npm start
+  238  cd routerjs/src/
+  239  npm start
+  240  npm start
+  241  git init
+  242  git add -A .
+  243  git commit -m "first commit routerjs - 11/4/2020"
+  244  git status
+  245  git remote add origin https://github.com/Ernest-hub/routerjs.git
+  246  git remote -v
+  247  git push -u origin master
+  248  cs src/
+  249  cd src/
+  250  npm start
+  251  exit
+  252  npm install react-bootstrap bootstrap
+  253  cd Desktop/FOLDERS/Pastor\ T\ class/
+  254  ll
+  255  cd routerjs/
+  256  pwd
+  257  ll
+  258  clear
+  259  git add -A .
+  260  git commit -m "updating code to navbar"
+  261  git push -u origin master
+  262  heroku buildpacks
+  263  heroku buildpacks:set heroku/nodejs
+  264  git ls-files | grep node_modules
+  265  git ls-files | grep node_modules
+  266  npm install
+  267  git ls-files | grep node_modules
+  268  clear
+  269  echo "node_modules" >> .gitignore
+  270  cat .gitignore 
+  271  clear
+  272  git rm -r --cached node_modules
+  273  git commit -am 'untracked node_modules'
+  274  NODE_ENV=production npm start
+  275  /lib
+  276  lib/
+  277  ll
+  278  git push -u origin master
+  279  npm test
+  280  npm install bootstrap/dist/css/bootstrap.min.css
+  281  npm install bootstrap/dist/css/bootstrap.min.css
+  282  heroku buildpacks
+  283  git push heroku master
+  284  ll
+  285  cat package-lock.json 
+  286  clear
+  287  ll
+  288  cs package.json 
+  289  cat package.json 
+  290  heroku buildpacks
+  291  ll
+  292  ll
+  293  clear
+  294  ll
+  295  git ls-files | grep node_modules
+  296  clear
+  297  ll
+  298  cat package.json 
+  299  npm i -g npm-check-updates
+  300  ncu -u
+  301  npm install
+  302  npm -v
+  303  cat package.json 
+  304  npm install -g npm-upgrade
+  305  npm -version
+  306  git add .
+  307  git commit -a -m "committing after updating"
+  308  git push -u origin master
+  309  clear
+  310  cat package.json 
+  311  node --version
+  312  heroku buildpacks
+  313  heroku buildpacks --app 
+  314  heroku buildpacks --app routerjs
+  315  cat node_modules/
+  316  ll
+  317  cat package.json 
+  318  clear
+  319  ll
+  320  cat package-lock.json 
+  321  clear
+  322  "scripts": {
+  323    "start": "node index.js",
+  324    "build": "ng build",
+  325    "heroku-postbuild": "ng build --prod"
+  326  cat package.json 
+  327  heroku config:set NPM_CONFIG_PRODUCTION=true
+  328  git add .
+  329  git commit -a -m "committing after several troubleshoot"
+  330  git push -u origin master
+  331  clear
+  332  cat package.json 
+  333  vi package.json 
+  334  git add .
+  335  cat package.json 
+  336  git commit -m "committing after package.json alter"
+  337  git push -u origin master
+  338  git add .
+  339  git commit -m "committing after changing boostrap cdn"
+  340  git push -u origin master
+  341  npm install bootstrap/dist/css/bootstrap.min.css --save
+  342  npm install bootstrap/dist/css/bootstrap.min.css 
+  343  npm install bootstrap/dist/css/bootstrap.min.css -save
+  344  npm install bootstrap/dist/css/bootstrap.min.css -- save
+  345  npm install bootstrap/dist/css/bootstrap.min.css ---save
+  346  npm install bootstrap
+  347  npm install bootstrap --save
+  348  git add .
+  349  git commit -m "committing after installing bootstrap"
+  350  git push -u origin master
+  351  npm install react-router-dom --save 
+  352  restart
+  353  logout
+  354  node -v
+  355  cd Desktop/FOLDERS/Pastor\ T\ class/
+  356  ll
+  357  cd gdichicago/
+  358  ll
+  359  cat package.json 
+  360  vi package.json 
+  361  node --version
+  362  node -v
+  363  cd src/
+  364  npm start
+  365  cd ..
+  366  cd ..
+  367  cd routerjs/
+  368  cd src/
+  369  npm start
+  370  exit
+  371  cd Desktop/Ernest/reactJs/reminderpro/
+  372  git add .
+  373  git commit -m "committing for correction"
+  374  git status
+  375  git push -u origin master
+  376  exitt
+  377  exit
+  378  cd Desktop/FOLDERS/Pastor\ T\ class/routerjs/
+  379  pwd
+  380  clear
+  381  git add -A .
+  382  ll
+  383  ll -a
+  384  clear
+  385  git commit -m "committing after installing react-dom"
+  386  git push -u origin master
+  387  cd ..
+  388  cd ..
+  389  cd ..
+  390  cd Ernest/
+  391  ll
+  392  cd reacjs-projects/
+  393  ll
+  394  cd ..
+  395  ll
+  396  cd reactJs/
+  397  ll
+  398  cd reminderpro/src/
+  399  npm start
+  400  npm start
+  401  npm start
+  402  npm start
+  403  exit
+  404  npm install redux react-redux --save
+  405  cd Desktop/Ernest/reactJs/reminderpro/
+  406  ll
+  407  git init
+  408  git remote add origin https://github.com/Ernest-hub/reminderpro.git
+  409  git commit -m "first commit"
+  410  git add .
+  411  git commit -m "first commit"
+  412  git push -u origin master
+  413  clear
+  414  cd ..
+  415  cd ..
+  416  cd ..
+  417  cd FOLDERS/Pastor\ T\ class/Assignment_9_react/Trello_clone/
+  418  ll
+  419  cd trello-clone/src/
+  420  npm start
+  421  exit
+  422  cd Desktop/Ernest/reactJs/reminderpro/
+  423  cd src/
+  424  rpm start
+  425  npm start
+  426  cd Desktop/Ernest/reactJs
+  427  ll
+  428  cd ..
+  429  cd ..
+  430  cd FOLDERS/Pastor\ T\ class/routerjs/src/
+  431  cd ..
+  432  exit
+  433  cd Desktop/Ernest/COMPANY/reminderpro-master
+  434  cd src/
+  435  npm start
+  436  npm start
+  437  cd ..
+  438  cd ..
+  439  gh repo clone Ernest-hub/reminderpro
+  440  git remote -v
+  441  cll
+  442  git init
+  443  git clone https://github.com/Ernest-hub/reminderpro.git
+  444  ll
+  445  mkdir route_2020
+  446  cd route_2020/
+  447  pwd
+  448  clear
+  449  git clone https://github.com/Ernest-hub/routerjs.git
+  450  ll
+  451  cd routerjs/
+  452  cd src/
+  453  npm start
+  454  cd ..
+  455  cd ..
+  456  cd ..
+  457  ll
+  458  cd ROGOTOBO/routerjs
+  459  ll
+  460  cd src/
+  461  npm start
+  462  exit
+  463  cc Desktop/Ernest/reactJs
+  464  cd Desktop/Ernest/reactJs
+  465  cd reminderpro/src/
+  466  npm start
+  467  npm start
+  468  npm start
+  469  cd ..
+  470  cd ..
+  471  cd ..
+  472  cd ..
+  473  cd FOLDERS/Pastor\ T\ class/Assignment_9_react/
+  474  ll
+  475  cd Trello_clone/
+  476  ll
+  477  cd trello-clone/
+  478  cd src/
+  479  npm start
+  480  npm start
+  481  exit
+  482  cd Desktop/Ernest/reactJs/reminderpro/
+  483  npm install moment --save
+  484  npm install sfcookies --save
+  485  git add -A .
+  486  git status
+  487  git commit -m "committing the update of a finish reminderpro project"
+  488  git remote -v
+  489  git push -u origin master
+  490  git add -A .
+  491  git commit -m "adding background to a finish reminderpro project"
+  492  git push -u origin master
+  493  git add -A .
+  494  git commit -m "adding background-2 to a finish reminderpro project"
+  495  git push -u origin master
+  496  git add -A .
+  497  git commit -m "adding background-3 to a finish reminderpro project"
+  498  git push -u origin master
+  499  exit
+  500  exit
+  501  PWD
+  502  cd Desktop/Ernest/PRINCE\ KORGAH/
+  503  mkdir princekorgah
+  504  cd princekorgah/
+  505  history >> prince_history.txt
